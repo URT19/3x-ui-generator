@@ -1,6 +1,6 @@
 # extreme-3x-ui-generator
 
-[Panel Link](https://extremedot.github.io/extreme-3x-ui-generator/)
+[Panel Link](https://urt19.github.io/3x-ui-generator/)
 
  ----
 
@@ -8,5 +8,5 @@
 
 ----
 
-[Panel Link](https://extremedot.github.io/extreme-3x-ui-generator/)
+[Panel Link](https://urt19.github.io/3x-ui-generator/)
 
